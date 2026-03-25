@@ -52,6 +52,9 @@ A sleek dashboard displaying live blockchain news with categorized sections and 
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+### 1. Installation
 ```bash
 git clone https://github.com/insightfulrohit/chainpulse.git
+cd chainpulse
+python chainpulse_app.py
+```
